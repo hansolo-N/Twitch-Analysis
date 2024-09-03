@@ -39,7 +39,11 @@ The dataset can be found on Kaggle :
 (https://www.kaggle.com/datasets/rankirsh/evolution-of-top-games-on-twitch/data)
 
 ## Data Cleaning and Preprocessing
-The data did not need any pre-processing or cleaning as the data was in the correct format and had the correct types
+The data did not need any pre-processing nor cleaning as the data was in the correct format and had the correct data types.
+
+## Data Summary
+**Hours Watched:**
+- Key Insights
 
 
 
