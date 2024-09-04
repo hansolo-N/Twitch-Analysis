@@ -93,4 +93,6 @@ By focusing on the selected features, the predictive model is better positioned 
 - R-squared Score: 0.99
   - indicating that the model fits the data very well
 - Scatter Plot: plotting actual values vs Predicted values
+  ![image](https://github.com/user-attachments/assets/054d4ac8-a200-4e20-ab0a-434eca10ed26)
+
   - the scatter plot with a perfect line visible, shows that the predicted and actual values almost perfectly fit the line, indicating an accurate model.
