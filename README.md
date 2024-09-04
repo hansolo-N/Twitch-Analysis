@@ -69,7 +69,10 @@ The data did not need any pre-processing nor cleaning as the data was in the cor
   smaller group of highly popular streamers
 
 ### Visualizations
-[View Presentation](twitchVisuals.pptx)
+
+![Dashboard](Slide2.JPG)
+
+> Link to workbook: ![workbook](twitchVisuals.twb)
 
 ### Predicting Hours Watched
 > **Model Selection:**
