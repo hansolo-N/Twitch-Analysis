@@ -69,7 +69,7 @@ The data did not need any pre-processing nor cleaning as the data was in the cor
   smaller group of highly popular streamers
 
 
-## Predicting Hours Watched
+### Predicting Hours Watched
 > **Model Selection:**
  - Linear Regression Model
 > **Feature Selection:**
@@ -77,12 +77,20 @@ The data did not need any pre-processing nor cleaning as the data was in the cor
 - Streamers: Correlation = 0.73
 - Avg_viewers: Correlation = 0.75
 - Avg_channels: Correlation = 0.75
-- 
+  
 ### Excluded Features
+- a correlation matrix was created based all the numeric features and then further supplemented by a heat map for feature selection
 The following features were excluded or given less priority due to their weak or negligible correlations with `Hours_watched`:
-
 - **Month**
 - **Year**
 - **Avg_viewer_ratio**
 
 By focusing on the selected features, the predictive model is better positioned to deliver accurate results.
+
+### Model Analysis
+- Mean Absolute Error : 73591.29
+  - a fairly low MAE which suggests the model is fairly accurate
+- R-squared Score: 0.99
+  - indicating that the model fits the data very well
+- Scatter Plot: plotting actual values vs Predicted values
+  - the scatter plot with a perfect line visible, shows that the predicted and actual values almost perfectly fit the line, indicating an accurate model.
