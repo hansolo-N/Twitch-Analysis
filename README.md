@@ -65,5 +65,24 @@ The data did not need any pre-processing nor cleaning as the data was in the cor
  - an interesting observation to note is that while number of streamers decreased from 2022 onward, the average number of channels increased.
    The rise in the number of channels could be due to the creation of automated or thematic channels that don't require active streamers, such as music   
    streams, reruns, or automated content. This could reflect a trend towards more passive or continuous content that doesn't rely on live streamers.
-- Consolidation of viewership 
+- Consolidation of viewership, If fewer streamers are active but the number of channels has increased, it might indicate that viewership is consolidating around a 
+  smaller group of highly popular streamers
 
+
+## Predicting Hours Watched
+> **Model Selection:**
+ - Linear Regression Model
+> **Feature Selection:**
+- Hours_streamed: Correlation = 0.75
+- Streamers: Correlation = 0.73
+- Avg_viewers: Correlation = 0.75
+- Avg_channels: Correlation = 0.75
+- 
+### Excluded Features
+The following features were excluded or given less priority due to their weak or negligible correlations with `Hours_watched`:
+
+- **Month**
+- **Year**
+- **Avg_viewer_ratio**
+
+By focusing on the selected features, the predictive model is better positioned to deliver accurate results.
