@@ -46,8 +46,8 @@ The data did not need any pre-processing nor cleaning as the data was in the cor
 - Key Insights
  - the average number of hours watched over an 8 year span was 5645920 hours
  - between 2016 and 2021 a steady increase in hours watched was observed, from 2021 onwards the hours watched decreased, we can assume that this decrease is 
-   attributed to twitch being a growing platform in its early years in combination with covid from 2019 people were confined to their homes, once covid ended 
-   people were able to resume normal day to day activities thus a decreased viewership was observed.
+   attributed to twitch being a growing platform in its early years in combination with covid from 2019 people were confined to their homes,as well
+   social media competitors like Youtube, TikTok  Facebook and Instagram.
  - at lower hours watched, hours streamed were fairly clustered together and had a positive correlation and lower variance ,however as the stream hours increased
    there was more variance and suggests that after a certain amount of hours streamed viewership did not increase.
  - as the average viewers increased so did the hours watched, a very strong correlation was obvserved with little to no outliers.
@@ -96,3 +96,16 @@ By focusing on the selected features, the predictive model is better positioned 
   - the scatter plot with a perfect line visible, shows that the predicted and actual values almost perfectly fit the line, indicating an accurate model.
 
  ![image](https://github.com/user-attachments/assets/054d4ac8-a200-4e20-ab0a-434eca10ed26)
+
+ ### Conclusion
+ > **Key Findings:**
+   - Twitch experienced major growth in its platform in the initial years, especially with covid pandemic which confined people to their homes.
+   - 2021 saw the platform lose streamers and viewership, which could be for a number of reasons such streaming competitors like Youtube,TikTok and Kick,
+     to name a few,people also having the freedom to leave their homes after the pandemic could possibly be contributing factor.
+   - ultimately Twitch has solidified its user base and as it being the primary streaming platform for users.
+ > **Limitations:**
+   - The analysis could be more accurate with the aid of data pertaining to other streaming and social media platforms to guage whether their platforms
+     also suffered from loss in user engagement.
+
+ ### Closing Statement
+     > In conclusion, this analysis provides valuable insights into the key factors driving viewer engagement.
