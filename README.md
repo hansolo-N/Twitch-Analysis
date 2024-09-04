@@ -35,8 +35,8 @@ Avg_viewers - the average viewers for a game (int)
 Avg_channels  the average channels for a game (int)      
 Avg_viewer_ratio the aeverage viewer ratio for a game (float)  
 
-The dataset can be found on Kaggle : 
-(https://www.kaggle.com/datasets/rankirsh/evolution-of-top-games-on-twitch/data)
+The dataset can be found on Kaggle: 
+> https://www.kaggle.com/datasets/rankirsh/evolution-of-top-games-on-twitch/data
 
 ## Data Cleaning and Preprocessing
 The data did not need any pre-processing nor cleaning as the data was in the correct format and had the correct data types.
