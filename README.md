@@ -68,6 +68,8 @@ The data did not need any pre-processing nor cleaning as the data was in the cor
 - Consolidation of viewership, If fewer streamers are active but the number of channels has increased, it might indicate that viewership is consolidating around a 
   smaller group of highly popular streamers
 
+### Visualizations
+[View Presentation](twitchVisuals.pptx)
 
 ### Predicting Hours Watched
 > **Model Selection:**
@@ -94,6 +96,8 @@ By focusing on the selected features, the predictive model is better positioned 
   - indicating that the model fits the data very well
 - Scatter Plot: plotting actual values vs Predicted values
   - the scatter plot with a perfect line visible, shows that the predicted and actual values almost perfectly fit the line, indicating an accurate model.
+ 
+ ### Graph
 
  ![image](https://github.com/user-attachments/assets/054d4ac8-a200-4e20-ab0a-434eca10ed26)
 
