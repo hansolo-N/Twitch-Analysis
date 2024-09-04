@@ -42,13 +42,28 @@ The dataset can be found on Kaggle :
 The data did not need any pre-processing nor cleaning as the data was in the correct format and had the correct data types.
 
 ## Data Summary
-**Hours Watched:**
+> **Hours Watched:**
 - Key Insights
  - the average number of hours watched over an 8 year span was 5645920 hours
- - between 2016 and 2021 a steady increase in hours watched was observed, from 2021 onwards the hours watched decreased, we can assume that this decrease is attributed to twitch being a growing platform in its       early years in combination with covid from 2019 people were confined to their homes, once covid ended people were able to resume normal day to day activities thus a decreased viewership was observed.
- -  at lower hours watched, hours streamed were fairly clustered together and had a positive correlation and lower variance ,however as the stream hours increased
-    there was more variance and suggests that after a certain amount of hours streamed viewership did not increase.
+ - between 2016 and 2021 a steady increase in hours watched was observed, from 2021 onwards the hours watched decreased, we can assume that this decrease is 
+   attributed to twitch being a growing platform in its early years in combination with covid from 2019 people were confined to their homes, once covid ended 
+   people were able to resume normal day to day activities thus a decreased viewership was observed.
+ - at lower hours watched, hours streamed were fairly clustered together and had a positive correlation and lower variance ,however as the stream hours increased
+   there was more variance and suggests that after a certain amount of hours streamed viewership did not increase.
  - as the average viewers increased so did the hours watched, a very strong correlation was obvserved with little to no outliers.
  - the distribution of the hours watched was negatively skewed, where most values  lied within the 0-10 million hours range.
 
+> **Viewership:**
+ - The same patterns can be observed between 2021 to 2023 where peak viewership and average viewership steadily decreasing.
+
+> **Games:**
+- From 2016 to 2021 the number of games streamed saw a steady increase, However, from 2021 and beyond the number of games streamed steadily decreased.
+- Over several years,With respect to hours watched most people enjoyed watching the "Just Chatting" channels with the exception of the rank 1 game League
+  of Legends and Grand Theft Auto 4, suggesting that most viewers enjoy variety streams than channels with games.
+
+> **Channels:**
+ - an interesting observation to note is that while number of streamers decreased from 2022 onward, the average number of channels increased.
+   The rise in the number of channels could be due to the creation of automated or thematic channels that don't require active streamers, such as music   
+   streams, reruns, or automated content. This could reflect a trend towards more passive or continuous content that doesn't rely on live streamers.
+- Consolidation of viewership 
 
